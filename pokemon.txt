@@ -1,0 +1,3 @@
+00001|Bulbasaur|90|20|Seed|Overgrow|m,f|grass,poison
+00002|Beylip|90|20|Seed|Overgrow|m,f|grass,poison
+00003|Chikorita|150|30|seed|whip|f|grass,nature
